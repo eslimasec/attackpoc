@@ -1254,11 +1254,7 @@
 	"legendItems": [
 		{
 			"color": "#ff0606",
-			"label": "Blue Team gap"
-		},
-		{
-			"color": "#54f138",
-			"label": "Blue Team Covered"
+			"label": "Threat Actor using technique"
 		}
 	],
 	"metadata": [],
