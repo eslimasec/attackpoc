@@ -1205,11 +1205,7 @@
 	},
 	"legendItems": [
 		{
-			"label": "Blue Team gap",
-			"color": "#ff0606"
-		},
-		{
-			"label": "Blue Team Covered",
+			"label": "Remediated",
 			"color": "#71cf60"
 		}
 	],
